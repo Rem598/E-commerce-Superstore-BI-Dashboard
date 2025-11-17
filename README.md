@@ -2,7 +2,7 @@
 
 ## 🎯 Project Goal
 
-The objective of this project was to build a comprehensive, interactive Business Intelligence dashboard using the Superstore dataset. The primary focus was on demonstrating **full-cycle data analysis capabilities**—from raw data transformation to delivering **actionable, profit-driving recommendations** to management.
+The objective of this project was to build a comprehensive, interactive Business Intelligence dashboard using the Superstore dataset. The primary focus was on demonstrating **full-cycle data analysis capabilities** from raw data transformation to delivering **actionable, profit-driving recommendations** to management.
 
 ## 🛠️ Skills Applied
 
@@ -17,9 +17,9 @@ The objective of this project was to build a comprehensive, interactive Business
 
 The dashboard provides a holistic view of the business, enabling quick filtering by Region and Time.
 
-![Power BI Superstore Dashboard Screenshot](https://github.com/YourUsername/E-commerce-Superstore-BI-Dashboard/raw/main/images/superstore_dashboard.png)
+![Power BI Superstore Dashboard](https://github.com/Rem598/E-commerce-Superstore-BI-Dashboard/blob/main/Dashboard)
 
-## 💡 Key Business Insights (Corrected)
+## 💡 Key Business Insights
 
 The analysis was synthesized to provide three actionable insights based on the visual data:
 
@@ -33,4 +33,3 @@ Based on the validated insights, the following strategies are advised:
 
 1.  **Targeted Q4 Campaign:** Allocate the majority of the annual marketing budget (e.g., 60%) to campaigns running from **October to December** to maximize conversion during the predictable holiday sales peak.
 2.  **Central Region Cost Review:** Initiate a detailed operational audit of **logistics and discount strategies** within the Central Region to identify and cut unnecessary overhead, aiming to bring its Profit Margin % in line with the West Region.
-3.  **Furniture Optimization:** While Furniture is a revenue driver, a detailed look at its sub-categories showed high discount rates and frequent returns. Recommend implementing a minimum profit threshold for all Furniture SKUs (Stock Keeping Units) and **aggressively repricing low-margin items** like certain 'Tables' and 'Bookcases.'
